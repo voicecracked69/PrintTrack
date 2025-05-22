@@ -1,0 +1,78 @@
+Received:
+Array
+(
+    [job_ticket_number] => D8W07-8001-24B
+    [status] => Pending
+)
+Received:
+Array
+(
+    [job_ticket_number] => 2502010D8
+    [status] => Pending
+)
+Received:
+Array
+(
+    [job_ticket_number] => D8W07-8001-24B
+    [status] => Pending
+)
+Received:
+Array
+(
+    [job_ticket_number] => D8W07-8001-24B
+    [status] => Pending
+)
+Received:
+Array
+(
+    [job_ticket_number] => 312312312312
+    [status] => In Progress
+)
+Received:
+Array
+(
+    [job_ticket_number] => 312312312312
+    [status] => In Progress
+)
+Received:
+Array
+(
+    [job_ticket_number] => 312312312312
+    [status] => In Progress
+)
+Received:
+Array
+(
+    [job_ticket_number] => D8W07-8001-24B
+    [status] => Pending
+)
+Received:
+Array
+(
+    [job_ticket_number] => D8W07-8001-24B
+    [status] => Pending
+)
+
+[2025-05-13 09:02:17] Received:
+Array
+(
+    [job_ticket_number] => D8W07-8001-24B
+    [status] => Pending
+)
+[2025-05-13 09:02:17] Warning: No records updated. Job ticket not found or status unchanged.
+
+[2025-05-13 09:58:24] Received:
+Array
+(
+    [job_ticket_number] => D8W07-8001-24B
+    [status] => Pending
+)
+[2025-05-13 09:58:24] Warning: No records updated. Job ticket not found or status unchanged.
+
+[2025-05-13 09:58:41] Received:
+Array
+(
+    [job_ticket_number] => D8W07-8001-24B
+    [status] => Pending
+)
+[2025-05-13 09:58:41] Warning: No records updated. Job ticket not found or status unchanged.

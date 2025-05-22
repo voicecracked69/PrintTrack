@@ -1,0 +1,21 @@
+ACCOUNTS:
+Note: Gumawa ako ng mga accounts para matest nyo yung lahat ng user roles, Sa email lang sila nag kakaiba pero sa password same lang "123"
+
+
+ADMIN:
+admin@gmail.com
+
+SECONDARY:
+secondary@gmail.com
+
+EWORK:
+ework@gmail.com	
+
+PRODUCTION:
+production@gmail.com
+
+PENDING:
+pending@gmail.com	
+
+REJECTED:
+rejected@gmail.com
